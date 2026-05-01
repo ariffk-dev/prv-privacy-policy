@@ -1,6 +1,9 @@
-# prv-privacy-policy
+# Personal Record Vault Privacy Policy
+
 Privacy Policy for Personal Record Vault
-  Personal Record Vault does not collect, store, or transmit any personal data to the developer or any third party.
+
+
+Personal Record Vault does not collect, store, or transmit any personal data to the developer or any third party.
 
   What stays on your device
   - Workout logs, routines, body measurements, and progress photos are stored locally on your device.
